@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+freshchat.com	TRUE	/	FALSE	1999999999	__cf_bm	hB_MGQzDx7Oj0ZRXAT1QQbe44kdvE3v8R16ILRoV_UU-1776979897.9358342-1.0.1.1-Kaagd_MbCJUfE334xy00a64x2DfIRMUp0DEe9GYP7S_MyvJe9lTf8XtoxWSY.CLtAISzUe.MUzTx67VQ9KfgTl7mhJ6X694GI7s3LN0CcIY0GcXTdKBrULf68FF1VASV
+www.asu.edu.om	TRUE	/	FALSE	1999999999	culture	en
+

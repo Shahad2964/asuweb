@@ -1,0 +1,200 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 24 Apr 2026 01:28:29 at https://www.asu.edu.om/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.asu.edu.om/ -O1 "C:\My Web Sites\shahadandheba" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:46:10	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.asu.edu.om/Page/Details/25 (from https://www.asu.edu.om/)
+01:53:14	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.asu.edu.om/COL (from https://www.asu.edu.om/)
+01:53:14	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.asu.edu.om/CLFS (from https://www.asu.edu.om/)
+02:49:09	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.asu.edu.om/Page/Details/56?t=College%20of%20Law (from https://www.asu.edu.om/)
+02:49:09	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.asu.edu.om/Page/Details/25?t=Centre%20for%20Language%20and%20Foundation%20Studies (from https://www.asu.edu.om/)
+02:49:12	Error: 	"Not Found" (404) at link https://www.asu.edu.om/img/bg-sharpen.jpg (from https://www.asu.edu.om/Content/css?v=JgUzBTAV9i4mEHsp4MOTexBN5A-YvtbLpGyTZRr7omU1)
+02:49:18	Warning: 	Found for https://www.asu.edu.om/Team/?t=Board%20of%20Trustees?t=Board%20of%20Trustees
+02:49:18	Warning: 	File has moved from https://www.asu.edu.om/Team/?t=Board%20of%20Trustees?t=Board%20of%20Trustees to /
+02:49:18	Warning: 	Found for https://www.asu.edu.om/Team/?t=Board%20of%20Directors?t=Board%20of%20Directors
+02:49:18	Warning: 	File has moved from https://www.asu.edu.om/Team/?t=Board%20of%20Directors?t=Board%20of%20Directors to /
+02:49:18	Warning: 	Found for https://www.asu.edu.om/Team/?t=Academic%20Committee?t=Academic%20Committee
+02:49:18	Warning: 	File has moved from https://www.asu.edu.om/Team/?t=Academic%20Committee?t=Academic%20Committee to /
+02:49:18	Warning: 	Found for https://www.asu.edu.om/Team/?t=Audit%20and%20Risk%20Committee?t=Audit%20and%20Risk%20Committee
+02:49:18	Warning: 	File has moved from https://www.asu.edu.om/Team/?t=Audit%20and%20Risk%20Committee?t=Audit%20and%20Risk%20Committee to /
+02:49:18	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.asu.edu.om/page (from https://www.asu.edu.om/Page/Details/37?Message%20from%20the%20Vice%20Chancellor)
+02:49:22	Warning: 	Found for https://www.asu.edu.om/Team/?t=Conferences%20and%20Seminars
+02:49:22	Warning: 	File has moved from https://www.asu.edu.om/Team/?t=Conferences%20and%20Seminars to /
+02:49:27	Warning: 	Retry after error 500 () at link https://www.asu.edu.om/Page/Details/25 (from https://www.asu.edu.om/)
+02:49:44	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.asu.edu.om/programmes/Details/18?t=%d8%a8%d9%83%d8%a7%d9%84%d9%88%d8%b1%d9%8a%d9%88%d8%b3%20%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d8%a9%20%d9%81%d9%8a%20%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d8%a9%20%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d8%a9 (from https://www.asu.edu.om/programmes/Bachelors/)
+02:49:52	Error: 	"Forbidden" (403) at link https://www.asu.edu.om/img/ArticleImgs/small/ (from https://www.asu.edu.om/programmes/Bachelors/)
+02:51:14	Warning: 	Retry after error 500 () at link https://www.asu.edu.om/COL (from https://www.asu.edu.om/)
+02:51:14	Warning: 	Retry after error 500 () at link https://www.asu.edu.om/CLFS (from https://www.asu.edu.om/)
+02:51:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.asu.edu.om/Team/Details/52?t=Akbar%20Khanan (from https://www.asu.edu.om/Team/?t=College%20of%20Business%20Administration)
+02:55:02	Error: 	"Not Found" (404) at link https://www.asu.edu.om/Page/Details/files/1_y2019_m7_d8_h1_m45_S0.pdf (from https://www.asu.edu.om/Page/Details/59?Academic%20Regulations)
+02:55:06	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.asu.edu.om/Page/Details/post?aid=129&p=College%20of%20Arts%20and%20Humanities%20Publications (from https://www.asu.edu.om/Page/Details/13?Research%20Publication)
+02:55:06	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.asu.edu.om/Page/Details/post?aid=130&p=College%20of%20Applied%20and%20Health%20Sciences%20Publications (from https://www.asu.edu.om/Page/Details/13?Research%20Publication)
+02:55:06	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.asu.edu.om/Page/Details/post?aid=131&p=College%20of%20Business%20Administration%20Publications (from https://www.asu.edu.om/Page/Details/13?Research%20Publication)
+02:55:06	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.asu.edu.om/Page/Details/post?aid=132&p=College%20of%20Engineering%20Publications (from https://www.asu.edu.om/Page/Details/13?Research%20Publication)
+02:55:07	Error: 	"Not Found" (404) at link https://www.masader.om/sites/default/files/Masader_Logo.PNG (from https://www.asu.edu.om/Page/Details/137?Masader%20Oman%20Virtual%20Science%20Library)
+02:55:08	Error: 	"Forbidden" (403) at link https://www.asu.edu.om/img/Team/ (from https://www.asu.edu.om/Page/Details/522?AI%20Applications)
+02:55:10	Error: 	"Not Found" (404) at link https://www.asu.edu.om/img/ASUFiles/AC0003-Payment-for-Repeating-Failed-Students.pdf (from https://www.asu.edu.om/asufiles)
+02:55:10	Error: 	"Not Found" (404) at link https://www.asu.edu.om/img/ASUFiles/AC0019-Student-Affairs-Manual-Arabic.pdf (from https://www.asu.edu.om/asufiles)
+02:55:10	Error: 	"Not Found" (404) at link https://www.asu.edu.om/img/ASUFiles/CHEM101E-General-Chemistry.pdf (from https://www.asu.edu.om/asufiles)
+02:55:10	Error: 	"Not Found" (404) at link https://www.asu.edu.om/img/ASUFiles/CHEM201E-Organic-Chemistry.pdf (from https://www.asu.edu.om/asufiles)
+02:55:10	Error: 	"Not Found" (404) at link https://www.asu.edu.om/img/ASUFiles/College of EngineeringN280-Construction-Methodology.pdf (from https://www.asu.edu.om/asufiles)
+02:55:10	Error: 	"Not Found" (404) at link https://www.asu.edu.om/img/ASUFiles/College of EngineeringN282-Const-Equipment.pdf (from https://www.asu.edu.om/asufiles)
+02:55:10	Error: 	"Not Found" (404) at link https://www.asu.edu.om/img/ASUFiles/College of EngineeringN585-GIS-Applications-Course-Descriptor.pdf (from https://www.asu.edu.om/asufiles)
+02:55:10	Error: 	"Not Found" (404) at link https://www.asu.edu.om/img/ASUFiles/College of EngineeringN586-Sustainable-Construction.pdf (from https://www.asu.edu.om/asufiles)
+02:55:10	Error: 	"Not Found" (404) at link https://www.asu.edu.om/img/ASUFiles/College of EngineeringN587-Cost-Estimating.pdf (from https://www.asu.edu.om/asufiles)
+02:55:10	Error: 	"Not Found" (404) at link https://www.asu.edu.om/img/ASUFiles/COUN419-Design-indicative-programs.pdf (from https://www.asu.edu.om/asufiles)
+02:55:10	Error: 	"Not Found" (404) at link https://www.asu.edu.om/img/ASUFiles/ECON201-Principles-of-Macroeconomics-Arabic.pdf (from https://www.asu.edu.om/asufiles)
+02:55:10	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/img/Ibra/9a8f20dd-2713-4b0f-a6c2-783e0fca34fc.png (from https://www.asu.edu.om/ibra)
+02:55:11	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/learn/Email.htm (from https://www.asu.edu.om/Students/?t=Students)
+02:55:11	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/Page/Details/162?t=Conferences%20and%20Seminars (from https://www.asu.edu.om/Page/Details/162?t=International%20Undergraduate%20Scholarships)
+02:55:11	Error: 	"Not Found" (404) at link https://www.asu.edu.om/Content/grabbing.png (from https://www.asu.edu.om/Content/owl.carousel.min.css)
+02:55:11	Warning: 	 for https://www.asu.edu.om/home/changelanguage?lang=en
+02:55:11	Warning: 	File has moved from https://www.asu.edu.om/home/changelanguage?lang=en to /Page/Details/37?Message%20from%20the%20Vice%20Chancellor
+02:55:11	Warning: 	Retry after error 500 () at link https://www.asu.edu.om/Page/Details/56?t=College%20of%20Law (from https://www.asu.edu.om/)
+02:55:11	Warning: 	Retry after error 500 () at link https://www.asu.edu.om/Page/Details/25?t=Centre%20for%20Language%20and%20Foundation%20Studies (from https://www.asu.edu.om/)
+02:55:11	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/Bachelors?t=Conferences%20and%20Seminars (from https://www.asu.edu.om/programmes/Bachelors)
+02:55:11	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/page/details/162 (from https://www.asu.edu.om/Page/Details/162?International%20Undergraduate%20Scholarships)
+02:55:11	Warning: 	 for https://www.asu.edu.om/home/changelanguage?lang=Ar
+02:55:11	Warning: 	File has moved from https://www.asu.edu.om/home/changelanguage?lang=Ar to /
+02:55:13	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/Ibra/Details/10?t=Al%20Mustaqbal%20Hotel (from https://www.asu.edu.om/ibra?t=Hotels)
+02:55:13	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/img/Ibra/c22fd5c9-5f0f-4492-b506-42a526c15f8f.jpg (from https://www.asu.edu.om/ibra?t=Banks)
+02:55:13	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/img/Ibra/22c3cae8-bac6-4c49-80f7-2216c47e1b3d.png (from https://www.asu.edu.om/ibra?t=Education)
+02:55:13	Warning: 	Retry after error 500 () at link https://www.asu.edu.om/page (from https://www.asu.edu.om/Page/Details/37?Message%20from%20the%20Vice%20Chancellor)
+02:55:13	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/page/details/6 (from https://www.asu.edu.om/Page/Details/6?About%20A%e2%80%99Sharqiyah%20University)
+02:55:13	Error: 	"Error when decompressing" (-1) at link https://www.asu.edu.om/qaa/policies (from https://www.asu.edu.om/QAA/Policies/)
+02:55:13	Error: 	Unable to save file C:/My Web Sites/shahadandheba/www.asu.edu.om/qaa/policies: Permission denied
+02:55:13	Error: 	"Error when decompressing" (-1) at link https://www.asu.edu.om/qaa/role (from https://www.asu.edu.om/QAA/Role/)
+02:55:13	Error: 	Unable to save file C:/My Web Sites/shahadandheba/www.asu.edu.om/qaa/role: Permission denied
+02:55:13	Error: 	"Error when decompressing" (-1) at link https://www.asu.edu.om/qaa/contact (from https://www.asu.edu.om/QAA/Contact/)
+02:55:13	Error: 	Unable to save file C:/My Web Sites/shahadandheba/www.asu.edu.om/qaa/contact: Permission denied
+02:55:13	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/MashreqFiles/9/shot.png (from https://www.asu.edu.om/MashreqFiles/9/)
+02:55:13	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/MashreqFiles/3/shot.png (from https://www.asu.edu.om/MashreqFiles/3/)
+02:55:13	Error: 	"" (500) after 2 retries at link https://www.asu.edu.om/Page/Details/25 (from https://www.asu.edu.om/)
+02:55:13	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/img/2.jpg (from https://www.asu.edu.om/programmes)
+02:55:13	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/1 (from https://www.asu.edu.om/programmes/Details/1?t=%d8%af%d8%a8%d9%84%d9%88%d9%85%20%d8%a5%d8%af%d8%a7%d8%b1%d8%a9%20%d8%a7%d9%84%d8%aa%d8%b4%d9%8a%d9%8a%d8%af)
+02:55:13	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2025m4d9_1097.pdf (from https://www.asu.edu.om/programmes/Details/1?t=Diploma%20in%20Construction%20Project%20Management)
+02:55:13	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2025m4d9_10168.pdf (from https://www.asu.edu.om/programmes/Details/2?t=Diploma%20in%20Civil%20Engineering)
+02:55:13	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/43 (from https://www.asu.edu.om/programmes/Details/43?t=%d8%af%d8%a8%d9%84%d9%88%d9%85%20%d9%85%d8%b3%d8%ad%20%d8%a7%d9%84%d9%83%d9%85%d9%8a%d8%a7%d8%aa%20%d9%88%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d8%a9%20%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a%d8%a9)
+02:55:13	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2025m4d9_115959.pdf (from https://www.asu.edu.om/programmes/Details/43?t=Diploma%20in%20Quantity%20Surveying%20and%20Commercial%20Management)
+02:55:13	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/3 (from https://www.asu.edu.om/programmes/Details/3?t=Diploma%20in%20Environmental%20Engineering)
+02:55:16	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/378 (from https://www.asu.edu.om/programmes/Details/378?t=Diploma%20in%20Cybersecurity)
+02:55:16	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/67 (from https://www.asu.edu.om/programmes/Details/67?t=%d8%af%d8%a8%d9%84%d9%88%d9%85%20%d9%86%d8%b8%d9%85%20%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa%20%d8%a7%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d9%8a%d8%a9)
+02:55:16	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/389 (from https://www.asu.edu.om/programmes/Details/389?t=Diploma%20in%20Internet%20and%20Information%20Technology)
+02:55:16	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/69 (from https://www.asu.edu.om/programmes/Details/69?t=%d8%af%d8%a8%d9%84%d9%88%d9%85%20%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d8%b3%d8%a8%d8%a9%20%d9%88%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9)
+02:55:16	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/71 (from https://www.asu.edu.om/programmes/Details/71?t=%d8%af%d8%a8%d9%84%d9%88%d9%85%20%d9%81%d9%8a%20%d8%a7%d8%af%d8%a7%d8%b1%d8%a9%20%d8%a7%d9%84%d9%88%d8%ab%d8%a7%d8%a6%d9%82%20%d9%88%d8%a7%d9%84%d9%85%d8%ad%d9%81%d9%88%d8%b8%d8%a7%d8%aa)
+02:55:17	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/385 (from https://www.asu.edu.om/programmes/Details/385?t=%d8%af%d8%a8%d9%84%d9%88%d9%85%20%d9%85%d8%aa%d9%82%d8%af%d9%85%20%d9%81%d9%8a%20%d8%b9%d9%84%d9%88%d9%85%20%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d8%a8%d8%b1%d8%a7%d8%aa%20%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a9)
+02:55:17	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d2_75649.pdf (from https://www.asu.edu.om/programmes/Details/385?t=Advanced%20%20diploma%20in%20Medical%20Lab%20Sciences)
+02:55:17	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/16 (from https://www.asu.edu.om/programmes/Details/16?t=%d8%a8%d9%83%d8%a7%d9%84%d9%88%d8%b1%d9%8a%d9%88%d8%b3%20%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d8%a9%20%d9%81%d9%8a%20%d8%a5%d8%af%d8%a7%d8%b1%d8%a9%20%d8%a7%d9%84%d8%aa%d8%b4%d9%8a%d9%8a%d8%af)
+02:55:17	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/Details/18?t=%d8%a8%d9%83%d8%a7%d9%84%d9%88%d8%b1%d9%8a%d9%88%d8%b3%20%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d8%a9%20%d9%81%d9%8a%20%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d8%a9%20%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a%d8%a9 (from https://www.asu.edu.om/programmes/Bachelors/)
+02:55:17	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/42 (from https://www.asu.edu.om/programmes/Details/42?t=%d8%a8%d9%83%d8%a7%d9%84%d9%88%d8%b1%d9%8a%d9%88%d8%b3%20%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85%20%d9%81%d9%8a%20%d9%85%d8%b3%d8%ad%20%d8%a7%d9%84%d9%83%d9%85%d9%8a%d8%a7%d8%aa%20%d9%88%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d8%a9%20%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a%d8%a9)
+02:55:17	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/376 (from https://www.asu.edu.om/programmes/Details/376?t=Bachelor%20of%20Science%20in%20Water%20Engineering)
+02:55:17	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/38 (from https://www.asu.edu.om/programmes/Details/38?t=%d8%a8%d9%83%d8%a7%d9%84%d9%88%d8%b1%d9%8a%d9%88%d8%b3%20%d8%a7%d9%84%d8%aa%d9%83%d9%86%d9%88%d9%84%d9%88%d8%ac%d9%8a%d8%a7%20%d9%81%d9%8a%20%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d8%a9%20%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a6%d9%8a%d9%87)
+02:55:17	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/379 (from https://www.asu.edu.om/programmes/Details/379?t=Bachelor%20of%20Science%20in%20Cybersecurity)
+02:55:17	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/19 (from https://www.asu.edu.om/programmes/Details/19?t=%d8%a8%d9%83%d8%a7%d9%84%d9%88%d8%b1%d9%8a%d8%b3%20%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d8%a9%20%d9%81%d9%8a%20%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d8%a9%20%d8%a7%d9%84%d8%a8%d9%8a%d8%a6%d9%8a%d8%a9)
+02:55:20	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/66 (from https://www.asu.edu.om/programmes/Details/66?t=%d8%a8%d9%83%d8%a7%d9%84%d9%88%d8%b1%d9%8a%d9%88%d8%b3%20%d9%86%d8%b8%d9%85%20%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa%20%d8%a7%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d9%8a%d8%a9)
+02:55:20	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m6d30_9354.pdf (from https://www.asu.edu.om/programmes/Details/66?t=Bachelor%20of%20Business%20Administration%20in%20Management%20Information%20Systems.)
+02:55:20	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/68 (from https://www.asu.edu.om/programmes/Details/68?t=%d8%a8%d9%83%d8%a7%d9%84%d9%88%d8%b1%d9%8a%d9%88%d8%b3%20%d8%a5%d8%af%d8%a7%d8%b1%d8%a9%20%d8%a7%d9%84%d8%a3%d8%b9%d9%85%d8%a7%d9%84%20%d9%81%d9%8a%20%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d8%b3%d8%a8%d8%a9%20%d9%88%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9)
+02:55:22	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/150 (from https://www.asu.edu.om/programmes/Details/150?t=%d8%a8%d9%83%d8%a7%d9%84%d9%88%d8%b1%d9%8a%d9%88%d8%b3%20%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9%20%d9%81%d9%8a%20%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a7%d8%aa)
+02:55:22	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d18_10318.pdf (from https://www.asu.edu.om/programmes/Details/150?t=Bachelor%20of%20Education%20in%20Mathematics)
+02:55:22	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d18_104231.pdf (from https://www.asu.edu.om/programmes/Details/82?t=%d8%a8%d9%83%d8%a7%d9%84%d9%88%d8%b1%d9%8a%d9%88%d8%b3%20%d8%a7%d9%84%d8%a2%d8%af%d8%a7%d8%a8%20%d9%81%d9%8a%20%d8%a7%d9%84%d8%a5%d8%b1%d8%b4%d8%a7%d8%af%20%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a)
+02:55:22	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/98 (from https://www.asu.edu.om/programmes/Details/98?t=%d8%a8%d9%83%d8%a7%d9%84%d9%88%d8%b1%d9%8a%d9%88%d8%b3%20%d9%81%d9%8a%20%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86)
+02:55:26	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/386 (from https://www.asu.edu.om/programmes/Details/386?t=Bachelor%20in%20Medical%20Lab%20Sciences)
+02:55:26	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/504 (from https://www.asu.edu.om/programmes/Details/504?t=%d8%a8%d9%83%d8%a7%d9%84%d9%88%d8%b1%d9%8a%d9%88%d8%b3%20%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85%20%d9%81%d9%8a%20%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a7%d8%aa)
+02:55:27	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/531 (from https://www.asu.edu.om/programmes/Details/531?t=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac%20%d8%af%d9%83%d8%aa%d9%88%d8%b1%d8%a7%d9%87%20%d8%a7%d9%84%d9%81%d9%84%d8%b3%d9%81%d8%a9%20%d9%81%d9%8a%20%d8%a7%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9%20%d8%a8%d9%83%d9%84%d9%8a%d8%a9%20%d8%a5%d8%af%d8%a7%d8%b1%d8%a9%20%d8%a7%d9%84%d8%a3%d8%b9%d9%85%d8%a7%d9%84)
+02:55:27	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/508 (from https://www.asu.edu.om/programmes/Details/508?t=%d9%85%d8%a7%d8%ac%d8%b3%d8%aa%d9%8a%d8%b1%20%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9%20%d9%81%d9%8a%20%d8%a7%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9%20%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%88%d9%8a%d8%a9)
+02:55:29	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/team/?t=College%20of%20Law (from https://www.asu.edu.om/programmes/Details/501?t=%c2%a0Master%20in%20Personal%20Status%20Law)
+02:55:29	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/418 (from https://www.asu.edu.om/programmes/Details/418?t=MSc%20in%20Private%20Law)
+02:55:30	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/367 (from https://www.asu.edu.om/programmes/Details/367?t=%d9%85%d8%a7%d8%ac%d8%b3%d8%aa%d9%8a%d8%b1%20%d9%81%d9%8a%20%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9%20%d8%aa%d8%ae%d8%b5%d8%b5%20%d8%a7%d9%84%d8%a7%d8%b1%d8%b4%d8%a7%d8%af%20%d8%a7%d9%84%d9%86%d9%81%d8%b3%d9%8a)
+02:55:30	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/366 (from https://www.asu.edu.om/programmes/Details/366?t=Master%e2%80%99s%20in%20education%20Specialty%20Educational%20Psychology)
+02:55:32	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/44 (from https://www.asu.edu.om/programmes/Details/44?t=%d9%85%d8%a7%d8%ac%d8%b3%d8%aa%d9%8a%d8%b1%20%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85%20%d9%81%d9%8a%20%d8%a7%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9%20%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9)
+02:55:33	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/543 (from https://www.asu.edu.om/programmes/Details/543?t=%d9%85%d8%a7%d8%ac%d8%b3%d8%aa%d9%8a%d8%b1%20%d8%a5%d8%af%d8%a7%d8%b1%d8%a9%20%d8%a7%d9%84%d8%a3%d8%b9%d9%85%d8%a7%d9%84%20%e2%80%93%20%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d8%a9%20%d8%a8%d8%a7%d9%84%d9%84%d8%ba%d8%a9%20%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9)
+02:55:35	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/542 (from https://www.asu.edu.om/programmes/Details/542?t=Diploma%20in%20Artificial%20Intelligence%20Engineering)
+02:55:35	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/page/details/519 (from https://www.asu.edu.om/Page/Details/519?t=Research%20Archive)
+02:55:35	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/page/details/55 (from https://www.asu.edu.om/Page/Details/55?College%20of%20Arts%20and%20Humanities)
+02:55:35	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/programmes/details/24 (from https://www.asu.edu.om/programmes/Details/24?t=Educational%20Education%20Diploma%20Program)
+02:55:35	Error: 	"" (500) after 2 retries at link https://www.asu.edu.om/COL (from https://www.asu.edu.om/)
+02:55:35	Error: 	"" (500) after 2 retries at link https://www.asu.edu.om/CLFS (from https://www.asu.edu.om/)
+02:55:35	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m11d18_141957.pdf (from https://www.asu.edu.om/Team/Details/1570?t=Mohammed%20Salah)
+02:55:35	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d8_54235.pdf (from https://www.asu.edu.om/Team/Details/1518?t=Mohamed%20Salaheldeen%20Rezk)
+02:55:35	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d8_53943.pdf (from https://www.asu.edu.om/Team/Details/421?t=Elias%20Shahda)
+02:55:35	Error: 	"Not Found" (404) at link https://www.asu.edu.om/Team/Details/Mrs.Raya AL-Brwani (from https://www.asu.edu.om/Team/Details/95?t=Raya%20Al-Brwani)
+02:55:35	Error: 	"Not Found" (404) at link https://www.asu.edu.om/Team/Details/doi.org/10.1108/SEF-07-2024-0432 (from https://www.asu.edu.om/Team/Details/1592?t=Tarek%20Chebbi)
+02:55:35	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m11d27_83050.pdf (from https://www.asu.edu.om/Team/Details/1571?t=Mohamed%20Loey%20%20Ramadan)
+02:55:35	Warning: 	Found for https://www.asu.edu.om/Team/Details/Web of Science ResearcherIDMGA-4133-2025
+02:55:35	Warning: 	File has moved from https://www.asu.edu.om/Team/Details/Web of Science ResearcherIDMGA-4133-2025 to /
+02:55:36	Error: 	"Not Found" (404) at link https://www.asu.edu.om/Team/Details/DOI : 10.37422/IJVS/20.009 (from https://www.asu.edu.om/Team/Details/472?t=Adamu%20Abdul%20Abubakar)
+02:55:37	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d8_13835.pdf (from https://www.asu.edu.om/Team/Details/259?t=Maryam%20Al%20Hashmi)
+02:55:37	Warning: 	Found for https://www.asu.edu.om/Team/Details/Asila AlMaskari
+02:55:37	Warning: 	File has moved from https://www.asu.edu.om/Team/Details/Asila AlMaskari to /
+02:55:37	Warning: 	Found for https://www.asu.edu.om/Team/Details/Basil Al-Maskari
+02:55:37	Warning: 	File has moved from https://www.asu.edu.om/Team/Details/Basil Al-Maskari to /
+02:55:37	Error: 	"Cancelled by User" (-1) at link https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif (from https://www.asu.edu.om/Team/Details/1537?t=Noha%20Osama%20%20Abdulateef)
+02:55:37	Error: 	"Not Found" (404) at link https://www.asu.edu.om/Team/Details/linkedin.com/in/tasabihmohamed (from https://www.asu.edu.om/Team/Details/1538?t=Tasabih%20%20Mohammed%20Saifeldin)
+02:55:37	Error: 	"Not Found" (404) at link https://www.asu.edu.om/Team/Details/www.theresearchers.asia (from https://www.asu.edu.om/Team/Details/122?t=Godwin%20John)
+02:55:37	Error: 	"Not Found" (404) at link https://www.asu.edu.om/Team/Details/drrashid2020@gmail.com (from https://www.asu.edu.om/Team/Details/137?t=Rashid%20Mohammed%20Al%20Hajri)
+02:55:37	Error: 	"Not Found" (404) at link https://www.asu.edu.om/Team/Details/www.eenet.org.uk (from https://www.asu.edu.om/Team/Details/116?t=Amjad%20Joma)
+02:55:37	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/Team/Details/saidalrashidi (from https://www.asu.edu.om/Team/Details/266?t=Said%20Al%20Rashdi)
+02:55:37	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d10_125815.pdf (from https://www.asu.edu.om/Team/Details/270?t=Fatma%20Al%20Mukhaini)
+02:55:37	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d9_13329.pdf (from https://www.asu.edu.om/Team/Details/260?t=Amina%20Ban%20Quader)
+02:55:37	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/Team/Details/ناصر الندابي (from https://www.asu.edu.om/Team/Details/431?t=Nasser%20AL%20Nadabi)
+02:55:37	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d10_125317.pdf (from https://www.asu.edu.om/Team/Details/428?t=Hamed%20Al%20Sharji)
+02:55:37	Error: 	"Not Found" (404) at link https://www.asu.edu.om/Team/Details/jamoodinz1@gmail.com (from https://www.asu.edu.om/Team/Details/424?t=Mohammed%20Al%20Jamoodi)
+02:55:37	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.asu.edu.om/Team/Details/2021 (from https://www.asu.edu.om/Team/Details/514?t=Asmaa%20Ibrahim%20%20shinkar)
+02:55:37	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d10_125127.pdf (from https://www.asu.edu.om/Team/Details/1528?t=Tharaya%20Sulaiman%20Hamed%20Alshabibi)
+02:55:37	Warning: 	Found for https://www.asu.edu.om/Team/Details/...
+02:55:37	Warning: 	File has moved from https://www.asu.edu.om/Team/Details/... to /?aspxerrorpath=/Team/Details/...
+02:55:37	Error: 	Unable to save file C:/My Web Sites/shahadandheba/www.asu.edu.om/Team/Details/: No such file or directory
+02:55:37	Error: 	"Not Found" (404) at link https://www.asu.edu.om/Team/Details/المجلة العربية للتربية النوعية  / المجلد العاشر / العدد 43 (from https://www.asu.edu.om/Team/Details/1588?t=Abdullah%20Al-Tobi)
+02:55:37	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/Team/Details/مجلة الدراسات اللغوية والأدبية  / جامعة نزوى / سلطنة عمان / المجلد العاشر / العدد السادس عشر (from https://www.asu.edu.om/Team/Details/1588?t=Abdullah%20Al-Tobi)
+02:55:37	Warning: 	Found for https://www.asu.edu.om/Team/Details/58080020300
+02:55:37	Warning: 	File has moved from https://www.asu.edu.om/Team/Details/58080020300 to /
+02:55:37	Warning: 	Found for https://www.asu.edu.om/Team/Details/Khalil Al Busaidi
+02:55:37	Warning: 	File has moved from https://www.asu.edu.om/Team/Details/Khalil Al Busaidi to /
+02:55:37	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d8_62259.pdf (from https://www.asu.edu.om/Team/Details/271?t=Fahad%20Al%20Aghbari)
+02:55:37	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/Team/Details/www.linkedin.com/in/ aries-gan-06960a217 (from https://www.asu.edu.om/Team/Details/1549?t=Aries%20Dahan%20Gan)
+02:55:37	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d15_85646.pdf (from https://www.asu.edu.om/Team/Details/485?t=Fatema%20Al%20Hakamani)
+02:55:37	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d15_93310.pdf (from https://www.asu.edu.om/Team/Details/1526?t=Al%20Haitham%20Said%20Saif%20Al%20Jahwari)
+02:55:37	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d14_16132.pdf (from https://www.asu.edu.om/Team/Details/211?t=Hameed%20Ur%20Rehman)
+02:55:37	Warning: 	Found for https://www.asu.edu.om/Team/Details/ResearchGate(https://www.researchgate.net/profile/Ali-Al-Matari/research)
+02:55:37	Warning: 	File has moved from https://www.asu.edu.om/Team/Details/ResearchGate(https://www.researchgate.net/profile/Ali-Al-Matari/research) to /?aspxerrorpath=/Team/Details/ResearchGate(https:/www.researchgate.net/profile/Ali-Al-Matari/research)
+02:55:40	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d15_93218.pdf (from https://www.asu.edu.om/Team/Details/207?t=Badar%20Al%20Baloshi)
+02:55:42	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m11d28_14135.pdf (from https://www.asu.edu.om/Team/Details/206?t=Ashraf%20Tantish)
+02:55:42	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d14_163048.pdf (from https://www.asu.edu.om/Team/Details/400?t=Sawsan%20Al%20Hosni)
+02:55:43	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/page/details/536 (from https://www.asu.edu.om/Page/Details/536?Contact%20Academic%20Advising%20Center)
+02:55:43	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/page/details/405 (from https://www.asu.edu.om/Page/Details/405?About%20Information%20Technology%20Support)
+02:55:43	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/page/details/412 (from https://www.asu.edu.om/Page/Details/412?Office%20365)
+02:55:43	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/page/details/413 (from https://www.asu.edu.om/Page/Details/413?Technical%20Support)
+02:55:43	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/page/details/410 (from https://www.asu.edu.om/Page/Details/410?Contact%20Us)
+02:55:43	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/page/details/415 (from https://www.asu.edu.om/Page/Details/415?Print-service)
+02:55:43	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/page/details/408 (from https://www.asu.edu.om/Page/Details/408?News)
+02:55:43	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/page/details/409 (from https://www.asu.edu.om/Page/Details/409?Announcements)
+02:55:43	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/Technical-Support-1.png (from https://www.asu.edu.om/IT/Details/413?Technical%20Support)
+02:55:43	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/page/details/files/1_y2019_m7_d8_h1_m45_S0.pdf (from https://www.asu.edu.om/page/details/59)
+02:55:43	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.asu.edu.om/page/details/post?aid=129&p=College%20of%20Arts%20and%20Humanities%20Publications (from https://www.asu.edu.om/page/details/13)
+02:55:45	Warning: 	Retry after error 500 () at link https://www.asu.edu.om/Page/Details/post?aid=129&p=College%20of%20Arts%20and%20Humanities%20Publications (from https://www.asu.edu.om/Page/Details/13?Research%20Publication)
+02:55:45	Warning: 	Retry after error 500 () at link https://www.asu.edu.om/Page/Details/post?aid=130&p=College%20of%20Applied%20and%20Health%20Sciences%20Publications (from https://www.asu.edu.om/Page/Details/13?Research%20Publication)
+02:55:45	Warning: 	Retry after error 500 () at link https://www.asu.edu.om/Page/Details/post?aid=131&p=College%20of%20Business%20Administration%20Publications (from https://www.asu.edu.om/Page/Details/13?Research%20Publication)
+02:55:45	Warning: 	Retry after error 500 () at link https://www.asu.edu.om/Page/Details/post?aid=132&p=College%20of%20Engineering%20Publications (from https://www.asu.edu.om/Page/Details/13?Research%20Publication)
+02:55:45	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/page/oas (from https://www.asu.edu.om/Page/OAS)
+02:55:45	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/learn/Petition.htm (from https://www.asu.edu.om/Students/?t=Conferences%20and%20Seminars)
+02:55:47	Error: 	"" (500) after 2 retries at link https://www.asu.edu.om/Page/Details/56?t=College%20of%20Law (from https://www.asu.edu.om/)
+02:55:47	Error: 	"" (500) after 2 retries at link https://www.asu.edu.om/Page/Details/25?t=Centre%20for%20Language%20and%20Foundation%20Studies (from https://www.asu.edu.om/)
+02:55:47	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/supplement.pdf (from https://www.asu.edu.om/page/details/163)
+02:55:47	Error: 	"" (500) after 2 retries at link https://www.asu.edu.om/page (from https://www.asu.edu.om/Page/Details/37?Message%20from%20the%20Vice%20Chancellor)
+02:55:47	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m12d12_9397.pdf (from https://www.asu.edu.om/programmes/details/502)
+02:55:47	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/files/y2024m7d2_82052.pdf (from https://www.asu.edu.om/programmes/details/383)
+02:55:47	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.asu.edu.om/Team/Details/2021 (from https://www.asu.edu.om/Team/Details/514?t=Asmaa%20Ibrahim%20%20shinkar)
+02:55:48	Error: 	"Cancelled by User" (-1) at link https://www.asu.edu.om/Team/Details/484?t= (from https://www.asu.edu.om/Team/)
+02:55:49	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.asu.edu.om/page/details/post?aid=129&p=College%20of%20Arts%20and%20Humanities%20Publications (from https://www.asu.edu.om/page/details/13)
+02:55:49	Error: 	"" (500) after 2 retries at link https://www.asu.edu.om/Page/Details/post?aid=129&p=College%20of%20Arts%20and%20Humanities%20Publications (from https://www.asu.edu.om/Page/Details/13?Research%20Publication)
+02:55:49	Error: 	"" (500) after 2 retries at link https://www.asu.edu.om/Page/Details/post?aid=130&p=College%20of%20Applied%20and%20Health%20Sciences%20Publications (from https://www.asu.edu.om/Page/Details/13?Research%20Publication)
+02:55:49	Error: 	"" (500) after 2 retries at link https://www.asu.edu.om/Page/Details/post?aid=131&p=College%20of%20Business%20Administration%20Publications (from https://www.asu.edu.om/Page/Details/13?Research%20Publication)
+02:55:49	Error: 	"" (500) after 2 retries at link https://www.asu.edu.om/Page/Details/post?aid=132&p=College%20of%20Engineering%20Publications (from https://www.asu.edu.om/Page/Details/13?Research%20Publication)
+02:55:50	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.asu.edu.om/Team/Details/2021 (from https://www.asu.edu.om/Team/Details/514?t=Asmaa%20Ibrahim%20%20shinkar)
+02:55:51	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.asu.edu.om/page/details/post?aid=129&p=College%20of%20Arts%20and%20Humanities%20Publications (from https://www.asu.edu.om/page/details/13)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 27 minutes 22 seconds : 1962 links scanned, 1790 files written (1676222998 bytes overall) [1682131831 bytes received at 320895 bytes/sec], 58074498 bytes transferred using HTTP compression in 651 files, ratio 98%
+(135 errors, 54 warnings, 0 messages)
